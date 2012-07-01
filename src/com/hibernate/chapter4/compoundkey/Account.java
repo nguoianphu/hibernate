@@ -1,7 +1,7 @@
 /*
  * Compound Primary key
  * */
-package com.hibernate.chapter4;
+package com.hibernate.chapter4.compoundkey;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

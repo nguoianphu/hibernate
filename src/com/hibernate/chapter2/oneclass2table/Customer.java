@@ -1,7 +1,7 @@
 /*
  * Một lớp tạo ra 2 TABLE
  * */
-package com.hibernate.chapter2;
+package com.hibernate.chapter2.oneclass2table;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

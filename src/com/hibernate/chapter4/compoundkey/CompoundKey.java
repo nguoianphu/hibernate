@@ -1,4 +1,4 @@
-package com.hibernate.chapter4;
+package com.hibernate.chapter4.compoundkey;
 
 import java.io.Serializable;
 

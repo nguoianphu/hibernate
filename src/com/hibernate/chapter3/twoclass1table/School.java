@@ -1,7 +1,7 @@
 /*
  * Một TABLE chứa 2 lớp
  * */
-package com.hibernate.chapter3;
+package com.hibernate.chapter3.twoclass1table;
 
 import javax.persistence.Embedded;
 import javax.persistence.Entity;

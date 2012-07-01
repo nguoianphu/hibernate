@@ -1,4 +1,4 @@
-package com.hibernate.chapter3;
+package com.hibernate.chapter3.twoclass1table;
 
 import javax.persistence.Embeddable;
 

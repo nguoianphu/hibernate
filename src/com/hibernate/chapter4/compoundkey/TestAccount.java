@@ -1,4 +1,4 @@
-package com.hibernate.chapter4;
+package com.hibernate.chapter4.compoundkey;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
