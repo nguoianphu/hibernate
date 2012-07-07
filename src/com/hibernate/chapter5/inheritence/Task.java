@@ -1,4 +1,4 @@
-package com.hibernate.chapte5.inheritence;
+package com.hibernate.chapter5.inheritence;
 
 import javax.persistence.Entity;
 

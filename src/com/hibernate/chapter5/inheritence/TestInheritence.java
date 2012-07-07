@@ -1,6 +1,4 @@
-package com.hibernate.chapte5.inheritence;
-
-import java.nio.channels.SeekableByteChannel;
+package com.hibernate.chapter5.inheritence;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
